@@ -1,0 +1,14 @@
+{
+  "name": "front-end-final-project-ahmet-firat-kestekoglu",
+  "version": "1.0.0",
+  "description": "Neos Software Education Program FrontEnd Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmet Fırat Kestekoğlu",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
