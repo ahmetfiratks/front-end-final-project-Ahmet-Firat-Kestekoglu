@@ -1,0 +1,100 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightgray;
+  padding: 5px;
+}
+.phone,
+.email {
+  display: flex;
+  justify-content: start;
+}
+
+.header-left {
+  display: flex;
+  justify-content: start;
+  gap: 15px;
+}
+
+.fa-phone,
+.fa-envelope {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.fa-envelope {
+  margin-left: 10px;
+}
+
+nav {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-left {
+  display: flex;
+  color: silver;
+}
+
+.fa-bag-shopping {
+  color: orange;
+  margin-top: 5px;
+}
+
+.nav-left-two {
+  margin-left: 25px;
+}
+
+.nav-left-one {
+  display: flex;
+}
+
+.fa-bag-shopping {
+  margin-right: 10px;
+}
+
+.orange-span {
+  color: orange;
+}
+
+.nav-right {
+  display: flex;
+  gap: 10px;
+}
+
+.p-mb-10 {
+  margin-top: -7px;
+  margin-left: 3px;
+}
+
+input {
+  background-color: silver;
+  margin-right: 15px;
+  position: relative;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.links-left {
+  display: flex;
+  gap: 10px;
+}
+
+.fa-angle-down {
+  margin-top: 15px;
+}
+
+.home-orange {
+  color: orange;
+  margin-left: 10px;
+}
